@@ -1,4 +1,4 @@
-let cart = new Cart(5)
+let cart = new Cart(25)
 cart.render("shopCart")
 
 renderCatalog("root-catalog")
